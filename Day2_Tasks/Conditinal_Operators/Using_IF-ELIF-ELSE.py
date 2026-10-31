@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 4e9edfd (Day1_Tasks)
 # Write a program to find the largest of three numbers using if-elif-else.
 num1 = int(input("Enter the first number: "))
 num2 = int(input("Enter the second number: "))
@@ -9,6 +12,7 @@ elif num2 >= num1 and num2 >= num3:
     print("The largest number is:", num2)
 else:
     print("The largest number is:", num3)
+<<<<<<< HEAD
 =======
 # Write a program to find the largest of three numbers using if-elif-else.
 num1 = int(input("Enter the first number: "))
@@ -21,3 +25,5 @@ elif num2 >= num1 and num2 >= num3:
 else:
     print("The largest number is:", num3)
 >>>>>>> bbde806 (Day-2_Tasks)
+=======
+>>>>>>> 4e9edfd (Day1_Tasks)
