@@ -2,7 +2,7 @@
 my_dict = {
     "name": "Akshay",
     "age": 24,
-    "city": "Larnataka"
+    "city": "Karnataka"
 }
 key = "age"
 
